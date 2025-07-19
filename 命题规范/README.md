@@ -44,7 +44,7 @@ example.zip
 - `*.in` 为该题目对应测试用例的标准输入。
 - `*.out` 为该题目对应测试用例的标准输出。
 
-可以参考[题目包示例]()
+可以参考[题目包示例](https://github.com/DLNU-ACM/DLNU-ACM/tree/main/%E5%91%BD%E9%A2%98%E8%A7%84%E8%8C%83/sample)
 
 ### 题面
 
