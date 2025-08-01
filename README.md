@@ -36,17 +36,17 @@
 
 工作室成员在使用的算法模板：
 
-- [WIDA's XCPC algorithm template](算法模板\WIDA-XCPC-v1.8.8-2024.11.19.pdf)
-- [Jiangly templates](算法模板\Jiangly-templates.pdf)
+- [WIDA's XCPC algorithm template](算法模板/WIDA-XCPC-v1.8.8-2024.11.19.pdf)
+- [Jiangly templates](算法模板/Jiangly-templates.pdf)
 
 ## 🔧 辅助工具
 
 ### 浏览器汉化插件
 国外OJ平台 (如 Codeforces 和 Atcoder) 题目没有中文，这对于英语苦手很不友好，以下是一些可以翻译网页翻译题目的插件：
 
-- [Codeforces-Better](tools\浏览器插件\Codeforces-Better!-1.79.0.user.js)
-- [Atcoder-Better](tools\浏览器插件\Atcoder-Better!-1.19.0.user.js)
-- [Nowcoder-Better](tools\浏览器插件\Nowcoder-Better!-1.12.0.user.js)
+- [Codeforces-Better](tools/浏览器插件/Codeforces-Better!-1.79.0.user.js)
+- [Atcoder-Better](tools/浏览器插件/Atcoder-Better!-1.19.0.user.js)
+- [Nowcoder-Better](tools/浏览器插件/Nowcoder-Better!-1.12.0.user.js)
 
 #### 安装方法：
 
